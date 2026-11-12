@@ -1,0 +1,129 @@
+{
+  "checked_at": "2026-11-12T01:57:32.669704+00:00",
+  "personal_hostname": "derrickparker.lwdgyasteri.com",
+  "normal_dns_ipv4": [
+    "143.110.239.142"
+  ],
+  "normal_dns_and_tls_verified": true,
+  "http": {
+    "derrickparker.lwdgyasteri.com/": {
+      "status": 200,
+      "ssl_verify_result": 0,
+      "redirect_url": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    "derrickparker.lwdgyasteri.com/portfolio/projects/asteri": {
+      "status": 200,
+      "ssl_verify_result": 0,
+      "redirect_url": "",
+      "content_type": "text/html; charset=utf-8"
+    },
+    "derrickparker.lwdgyasteri.com/static/portfolio.css": {
+      "status": 200,
+      "ssl_verify_result": 0,
+      "redirect_url": "",
+      "content_type": "text/css; charset=utf-8"
+    },
+    "derrickparker.lwdgyasteri.com/ask": {
+      "status": 302,
+      "ssl_verify_result": 0,
+      "redirect_url": "https://civic.lwdgyasteri.com/ask",
+      "content_type": ""
+    },
+    "derrickparker.lwdgyasteri.com/research?topic=etl": {
+      "status": 302,
+      "ssl_verify_result": 0,
+      "redirect_url": "https://civic.lwdgyasteri.com/research?topic=etl",
+      "content_type": ""
+    },
+    "derrickparker.lwdgyasteri.com/api/civic/status": {
+      "status": 302,
+      "ssl_verify_result": 0,
+      "redirect_url": "https://civic.lwdgyasteri.com/api/civic/status",
+      "content_type": ""
+    },
+    "civic.lwdgyasteri.com/health": {
+      "status": 200,
+      "ssl_verify_result": 0,
+      "redirect_url": "",
+      "content_type": "application/json"
+    },
+    "civic.lwdgyasteri.com/api/civic/status": {
+      "status": 200,
+      "ssl_verify_result": 0,
+      "redirect_url": "",
+      "content_type": "application/json"
+    }
+  },
+  "personal_root_rewrites_to_portfolio": true,
+  "approved_intro_and_role_verified": true,
+  "private_project_urls_found": false,
+  "case_has_private_repository_links": false,
+  "live_spoofed_forwarded_host_did_not_change_routing": true,
+  "portfolio_css_sha256": "81e587cec0b2f05da1c3565325cf988f9528558ecf13956ea9609eb4be7e51cf",
+  "health": {
+    "status": "ok",
+    "mode": "production"
+  },
+  "sources": 7,
+  "chunks": 8,
+  "vectors": {
+    "available": true,
+    "indexed_chunks": 8,
+    "total_chunks": 8,
+    "model": "text-embedding-3-small",
+    "dimensions": 1536,
+    "complete": true,
+    "compatible": true
+  },
+  "certificate": {
+    "valid_chain_and_hostname": true,
+    "protocol": "TLSv1.3",
+    "issuer": [
+      [
+        [
+          "countryName",
+          "US"
+        ]
+      ],
+      [
+        [
+          "organizationName",
+          "Let's Encrypt"
+        ]
+      ],
+      [
+        [
+          "commonName",
+          "YE2"
+        ]
+      ]
+    ],
+    "expires": "Feb 10 00:58:13 2027 GMT",
+    "subject_alt_name": [
+      [
+        "DNS",
+        "derrickparker.lwdgyasteri.com"
+      ]
+    ]
+  },
+  "data_imports": 0,
+  "paid_model_calls": 0,
+  "application_revision": "da709e8b5053df487dc3bd8915ddbdae1fa015a2",
+  "application_image_id": "sha256:95e09fa85bab69196302bb82a73ae50ea0a504916583e84d672e28ed25ec4878",
+  "proxy_revision": "51a8648dda6e0d4ba826ee073966e9f437cc7e40",
+  "proxy_config_sha256": "275b4f85915ad872346bcafd6096c8bcddbf40f13a077494ff3cf9e988570c92",
+  "application_process_unchanged": true,
+  "auth_limits_file_metadata_unchanged": true,
+  "persistent_volumes_preserved": true,
+  "source_versions_unchanged": true,
+  "source_chunk_version_sha256": "ccc06010ed14e9c208d659beec5e470c1bd605a9d54768109e277936d7d2b3be",
+  "proxy_validation": {
+    "result": "PASS",
+    "caddy_fmt": true,
+    "caddy_adapt_validate": true,
+    "fixed_upstream_host_verified": true,
+    "isolated_network": "none"
+  },
+  "rollback_available": true
+}
