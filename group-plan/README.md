@@ -1,0 +1,26 @@
+# Newark Briefing Desk group Plan
+
+Source index for **3. Group content system + problem research**. Continue the same evolving group record through Plan, Build, Release and Improve.
+
+- [Canonical editable group record](https://chatgpt.com/space/page_d3ef2e17c7f48191ab04cb20e265efd4)
+- [Readable HTML mirror](https://y-just-y.github.io/is373_ci_cd/group-plan.html) · [HTML source](../group-plan.html)
+- [Group Plan repository folder](https://github.com/Y-Just-Y/is373_ci_cd/tree/main/group-plan)
+
+## Proposed workflow
+
+Import a bounded selection of official Newark council records, normalize and version them, prepare a cited briefing, obtain the other teammate’s review, and publish only the approved revision. The full record contains the reader/problem, permitted-source scope, alternatives, stories and planned checks.
+
+| Proposed work | Owner | Reviewer |
+| --- | --- | --- |
+| Source contract, ETL, versioning and repeat-import checks | Derrick | Juan |
+| Briefing editor, review/publication and related checks | Juan | Derrick |
+
+Architecture, integration and evaluation need joint decisions and named tasks. This split remains proposed.
+
+## Status and starting evidence
+
+**November 16, 2026:** Derrick reports that Juan agreed to the Newark Briefing Desk topic. The exact pilot, work split, Juan’s research/review response and repository contribution access remain pending confirmation. Group implementation and integrated checks are planned.
+
+[Derrick’s existing individual RAG source](https://github.com/Y-Just-Y/my-app-studio/tree/codex/newark-civic-rag) and [Newark research](https://civic.lwdgyasteri.com/research) are a prior individual baseline, not completed group work or Juan’s contribution. AI assistance and actual contribution notes are identified in the canonical record.
+
+This folder currently contains the group Plan index. The group implementation location will be recorded after agreement. Public read-only Plan links do not establish teammate review, editing access or repository collaboration.
