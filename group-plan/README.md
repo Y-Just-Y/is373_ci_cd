@@ -19,7 +19,9 @@ Architecture, integration and evaluation need joint decisions and named tasks. T
 
 ## Status and starting evidence
 
-**November 16, 2026:** Derrick reports that Juan agreed to the Newark Briefing Desk topic. The exact pilot, work split, Juan’s research/review response and repository contribution access remain pending confirmation. Group implementation and integrated checks are planned.
+**November 16, 2026:** Derrick reports that Juan agreed to the Newark Briefing Desk topic. Initial Plan publication `c9728b` passed [Actions](https://github.com/Y-Just-Y/is373_ci_cd/actions/runs/44004368448), and the public HTTPS mirror/repository links were verified for read-only review. Derrick submitted his own Group Plan Canvas entry at 9:43 p.m. Eastern; its receipt was verified in Safari. Juan’s own entry remains pending.
+
+The exact pilot, work split, Juan’s research/review response and editing/contribution access remain pending confirmation. Group implementation and integrated checks are planned. Public Plan access does not establish teammate review or collaboration access.
 
 [Derrick’s existing individual RAG source](https://github.com/Y-Just-Y/my-app-studio/tree/codex/newark-civic-rag) and [Newark research](https://civic.lwdgyasteri.com/research) are a prior individual baseline, not completed group work or Juan’s contribution. AI assistance and actual contribution notes are identified in the canonical record.
 
